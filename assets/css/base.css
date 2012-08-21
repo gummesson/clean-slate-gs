@@ -1,0 +1,20 @@
+/*=================
+    CLEAN SLATE
+=================*/
+
+/* A couple of classes to get you started. */
+
+/* Page Wrapper */
+.container {}
+
+/* Header */
+.branding {}
+	.nav {}
+
+/* Main Area */
+.main {}
+	.sidebar {}
+	.content {}
+
+/* Footer */
+.copyright {}
