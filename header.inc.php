@@ -3,7 +3,9 @@
 <head>
 	<meta charset="utf-8">
  	<title><?php get_site_name(); ?> | <?php get_page_clean_title(); ?></title>
+ 	<link href="<?php get_theme_url(); ?>/assets/css/reset.css" rel="stylesheet" type="text/css">
 	<link href="<?php get_theme_url(); ?>/assets/css/base.css" rel="stylesheet" type="text/css">
+	<meta name="viewport" content="width=device-width">
 <?php get_header(); ?>
 </head>
 <body class="<?php get_page_slug(); ?>" >
