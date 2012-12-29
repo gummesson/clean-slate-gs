@@ -11,10 +11,10 @@
 <body class="<?php get_page_slug(); ?>" >
   <div class="container">
       <header class="branding">
-				<h1>
-					<a href="<?php get_site_url(); ?>" alt="<?php get_site_name(); ?>" title="<?php get_site_name(); ?>">
-						<?php get_site_name(); ?>
-					</a>
-				</h1>
+        <h1>
+          <a href="<?php get_site_url(); ?>" alt="<?php get_site_name(); ?>" title="<?php get_site_name(); ?>">
+            <?php get_site_name(); ?>
+          </a>
+        </h1>
       <?php get_component('tagline'); ?>
       </header><!-- header .branding -->
