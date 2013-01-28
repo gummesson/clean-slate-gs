@@ -2,22 +2,23 @@
     CLEAN SLATE
 =================*/
 
-/* A couple of classes to get you started. */
-
-/* Page Wrapper */
+/* Container */
 .container {}
 
 /* Header */
-.branding {}
+.site-header {}
+
+/* Navigation */
+.site-nav {}
   .nav {}
 
 /* Main Area */
-.main {}
-  .sidebar {}
-  .content {}
+.site-main {}
+  .site-content {}
+  .sub-content {}
 
 /* Footer */
-.copyright {}
+.site-footer {}
 
 /*===================
     Media Queries

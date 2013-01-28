@@ -1,3 +1,3 @@
-        <div class="sidebar">
+        <div class="site-subcontent">
           <?php get_component('sidebar'); ?>
-        </div><!-- .sidebar -->
+        </div><!-- .site-subcontent -->
