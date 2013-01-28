@@ -12,9 +12,10 @@
 .site-nav {}
   .nav {}
 
-/* Main Area */
+/* Main */
 .site-main {}
   .site-content {}
+    .page {}
   .sub-content {}
 
 /* Footer */
