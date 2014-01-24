@@ -1,10 +1,10 @@
-#Clean Slate for GetSimple CMS
+# Clean Slate for GetSimple CMS
 
-*Clean Slate* is a bare bones starter theme for [GetSimple CMS](http://www.get-simple.info/ "GetSimple CMS"). It contains some minimal markup and a couple of classes, but that's it.
+Clean Slate is a bare bones starter theme for [GetSimple CMS](http://www.get-simple.info/).
 
-## Component Dependencies
+## Components
 
-*Clean Slate* uses components for the theme's tagline and sidebar. If you don't want/need them, just remove the <code>&lt;?php get_component('tagline'); ?&gt;</code> and the <code>&lt;?php get_component('sidebar'); ?&gt;</code> located in the <code>header.inc.php</code> and <code>sidebar.inc.php</code> files.
+Clean Slate uses components for the theme's tagline and sidebar. If you don't need them, just remove the `<?php get_component('tagline'); ?>` and the `<?php get_component('sidebar'); ?>` located in the `header.inc.php` and `sidebar.inc.php` files.
 
 ## License
 
